@@ -1,0 +1,68 @@
+
+    body {
+      background-image: url(SSD/Users/Desktop/Matt/Template/waveBack.svg);
+      background: linear-gradient(#6498e6, #19334f);
+      background-position: center;
+      background-attachment: fixed;
+      background-size: 2880 1800;
+    background-repeat: no-repeat;
+    background-size: cover;
+     }
+     /*
+     ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      width: 1000px;
+      background-color: #f1f1f1;
+
+     }
+     ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      width: 200px;
+      background-color: #f1f1f1;
+    }
+    
+    li a {
+      display: block;
+      color: #000;
+      padding: 8px 16px;
+      text-decoration: none;
+    }
+    
+  
+    
+    li a:hover {
+      background-color: #555;
+      color: white;
+    }
+     
+   
+    
+    li a {
+      display: block;
+      color: #000;
+     margin-top: auto;
+      padding: 8px 16px;
+      text-decoration: none;
+    }
+    
+    /* Change the link color on hover */
+    li a:hover {
+      background-color: rgb(113, 201, 255);
+      color: rgb(0, 44, 60);
+    }
+
+    li {
+      display: inline;
+    }
+
+   /* html
+{    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    }
+    
