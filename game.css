@@ -1,0 +1,22 @@
+.square {
+  width: 50px;
+  height: 0px;
+  border: 1px solid black;
+  display: inline-block;
+  background-color: white;
+}
+.square-grey {
+  background-color: grey;
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  display: inline-block;
+  margin: 0px;
+  font-size: 0px;
+}
+#board {
+  width: 100%;
+  margin-left: 25%;
+  margin-top: 7%;
+  
+}
