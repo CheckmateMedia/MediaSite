@@ -59,10 +59,19 @@
       display: inline;
     }
 
+    /* Media Query */
+@media screen and (max-width:100%) {
+  #ul {
+      width: .5em;
+  }
+  
+
    /* html
 {    margin: 0;
     padding: 0;
     border: 0;
     outline: 0;
     }
+
+
     
