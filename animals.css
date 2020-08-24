@@ -1,0 +1,210 @@
+body {
+    background: linear-gradient(to right, #6498e6, #5ac77e);
+    margin: 0;
+    padding: 0;
+}
+
+title {
+font-size: 2em;
+color: turquoise;
+}
+
+img {
+    border: rgb(143, 179, 188);
+    border-style: inset;
+    border-width: 1em;
+    height: 68%;
+    margin: 2em;
+    margin-left: 14em;
+}
+
+#title {
+    font-size: 3em;
+}
+
+.name {
+    font-weight: bold;
+    margin-left: 36%;
+    font-size: 2em;
+}
+
+#name {
+    margin-left: 36%;
+}
+
+#title {
+    margin-left: 23%;
+}
+
+#intro {
+    margin-left: 36%;
+}
+
+#link {
+    margin-left: 36%;
+}  
+
+.abc {
+
+    padding: .3em;
+}
+
+#A {
+    margin-left: 15em;
+}
+
+#themAll {
+    margin-left: 36%;
+}
+
+#picture {
+    z-index: -1;
+    background-image: url("BabySeaLionBG.png");
+    background-repeat: no-repeat;
+    background-position: right
+}
+
+.button {
+    margin-left: 20%;
+}
+
+.left,
+.right {
+    float: left;
+}
+
+.animals, #right {
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+#aNames {
+    margin-left: 5%;
+
+}
+
+#aNames  {
+    padding-bottom: 3em;
+
+    padding-bottom: 3em;
+    margin-top: 3em;
+
+}
+
+a {
+    color: gold;
+}
+
+#link {
+    margin-left: 17%;
+}
+
+
+#cute {
+    z-index: 4;
+    width: 100px;
+    height: 100px;
+}
+#G, #K, #H, #I, #J, #D, #I,
+#T, #U, #V, #X, #Y, #Z {
+    color: rgba(255, 30, 0, 0.4);;
+}
+
+@media screen and (max-width: 600px) {
+    img {
+        width:45%;
+        height: 45%;
+        margin-left: 6em;
+    }
+    
+  }
+
+ .end {
+     margin-bottom: 3em;
+ } 
+
+ #left2 {
+     padding-top: 1em;
+ }
+
+  /* Nav Bar */ 
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+  
+
+  
+  .navbar {
+      
+    overflow: hidden;
+    background-image: linear-gradient(rgb(0, 255, 234), rgb(0, 204, 255));
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;  
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+    width: 100%;
+   
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+    cursor: pointer;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: rgb(0, 255, 213);
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #bbffff;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: rgb(0, 217, 255);
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  /* End Nav Bar */
